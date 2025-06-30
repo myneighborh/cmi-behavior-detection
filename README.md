@@ -1,1 +1,1 @@
-# cmi-behavior-detection
+# CMI - Detect Behavior with Sensor Data
