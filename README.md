@@ -1,2 +1,2 @@
 # CMI - Detect Behavior with Sensor Data
-This repository contains
+Predicting Body Focused Repetitive Behaviors from a Wrist-Worn Device
